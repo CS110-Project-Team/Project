@@ -1,0 +1,211 @@
+,REF_DATE,GEO,VALUE
+326,2020-01,Newfoundland and Labrador,149.2
+467,2020-01,Prince Edward Island,157.4
+607,2020-01,Nova Scotia,156.3
+748,2020-01,New Brunswick,159.3
+889,2020-01,Quebec,152.6
+1036,2020-01,Ontario,155.3
+1188,2020-01,Manitoba,150.5
+1330,2020-01,Saskatchewan,156.1
+1477,2020-01,Alberta,153.6
+1623,2020-01,British Columbia,149.5
+2348,2020-02,Newfoundland and Labrador,150.2
+2489,2020-02,Prince Edward Island,156.5
+2629,2020-02,Nova Scotia,157.0
+2770,2020-02,New Brunswick,158.2
+2911,2020-02,Quebec,152.6
+3058,2020-02,Ontario,154.4
+3210,2020-02,Manitoba,150.2
+3352,2020-02,Saskatchewan,154.8
+3499,2020-02,Alberta,152.7
+3645,2020-02,British Columbia,148.7
+4370,2020-03,Newfoundland and Labrador,150.8
+4511,2020-03,Prince Edward Island,157.7
+4651,2020-03,Nova Scotia,156.2
+4792,2020-03,New Brunswick,158.5
+4933,2020-03,Quebec,151.6
+5080,2020-03,Ontario,154.5
+5232,2020-03,Manitoba,150.0
+5374,2020-03,Saskatchewan,155.8
+5521,2020-03,Alberta,153.3
+5667,2020-03,British Columbia,148.7
+6392,2020-04,Newfoundland and Labrador,150.9
+6533,2020-04,Prince Edward Island,160.4
+6673,2020-04,Nova Scotia,158.3
+6814,2020-04,New Brunswick,159.9
+6955,2020-04,Quebec,153.9
+7102,2020-04,Ontario,156.4
+7254,2020-04,Manitoba,149.8
+7396,2020-04,Saskatchewan,154.0
+7543,2020-04,Alberta,153.0
+7689,2020-04,British Columbia,148.8
+8414,2020-05,Newfoundland and Labrador,153.1
+8555,2020-05,Prince Edward Island,160.2
+8695,2020-05,Nova Scotia,158.3
+8836,2020-05,New Brunswick,161.0
+8977,2020-05,Quebec,154.0
+9124,2020-05,Ontario,156.1
+9276,2020-05,Manitoba,150.9
+9418,2020-05,Saskatchewan,155.6
+9565,2020-05,Alberta,154.1
+9711,2020-05,British Columbia,149.7
+10436,2020-06,Newfoundland and Labrador,152.4
+10577,2020-06,Prince Edward Island,159.4
+10717,2020-06,Nova Scotia,158.1
+10858,2020-06,New Brunswick,161.1
+10999,2020-06,Quebec,154.7
+11146,2020-06,Ontario,156.6
+11298,2020-06,Manitoba,151.9
+11440,2020-06,Saskatchewan,156.4
+11587,2020-06,Alberta,154.0
+11733,2020-06,British Columbia,150.3
+12458,2020-07,Newfoundland and Labrador,151.6
+12599,2020-07,Prince Edward Island,161.7
+12739,2020-07,Nova Scotia,158.2
+12880,2020-07,New Brunswick,161.2
+13021,2020-07,Quebec,154.9
+13168,2020-07,Ontario,157.0
+13320,2020-07,Manitoba,152.5
+13462,2020-07,Saskatchewan,156.7
+13609,2020-07,Alberta,153.6
+13755,2020-07,British Columbia,150.6
+14480,2020-08,Newfoundland and Labrador,150.4
+14621,2020-08,Prince Edward Island,160.1
+14761,2020-08,Nova Scotia,157.8
+14902,2020-08,New Brunswick,160.0
+15043,2020-08,Quebec,153.4
+15190,2020-08,Ontario,155.9
+15342,2020-08,Manitoba,151.0
+15484,2020-08,Saskatchewan,155.3
+15631,2020-08,Alberta,152.4
+15777,2020-08,British Columbia,149.4
+16502,2020-09,Newfoundland and Labrador,149.8
+16643,2020-09,Prince Edward Island,158.6
+16783,2020-09,Nova Scotia,155.9
+16924,2020-09,New Brunswick,157.4
+17065,2020-09,Quebec,151.5
+17212,2020-09,Ontario,154.6
+17364,2020-09,Manitoba,150.0
+17506,2020-09,Saskatchewan,153.7
+17653,2020-09,Alberta,152.4
+17799,2020-09,British Columbia,149.0
+18524,2020-10,Newfoundland and Labrador,150.2
+18665,2020-10,Prince Edward Island,158.7
+18805,2020-10,Nova Scotia,156.1
+18946,2020-10,New Brunswick,159.8
+19087,2020-10,Quebec,152.9
+19234,2020-10,Ontario,155.0
+19386,2020-10,Manitoba,151.0
+19528,2020-10,Saskatchewan,154.9
+19675,2020-10,Alberta,152.7
+19821,2020-10,British Columbia,149.4
+20546,2020-11,Newfoundland and Labrador,151.8
+20687,2020-11,Prince Edward Island,159.1
+20827,2020-11,Nova Scotia,157.2
+20968,2020-11,New Brunswick,159.4
+21109,2020-11,Quebec,153.4
+21256,2020-11,Ontario,155.3
+21408,2020-11,Manitoba,152.5
+21550,2020-11,Saskatchewan,155.7
+21697,2020-11,Alberta,153.7
+21843,2020-11,British Columbia,150.0
+22568,2020-12,Newfoundland and Labrador,149.2
+22709,2020-12,Prince Edward Island,158.9
+22849,2020-12,Nova Scotia,156.9
+22990,2020-12,New Brunswick,159.9
+23131,2020-12,Quebec,153.3
+23278,2020-12,Ontario,155.2
+23430,2020-12,Manitoba,150.7
+23572,2020-12,Saskatchewan,154.3
+23719,2020-12,Alberta,152.5
+23865,2020-12,British Columbia,150.4
+24590,2021-01,Newfoundland and Labrador,151.2
+24731,2021-01,Prince Edward Island,160.7
+24871,2021-01,Nova Scotia,158.2
+25012,2021-01,New Brunswick,162.0
+25153,2021-01,Quebec,154.3
+25300,2021-01,Ontario,157.1
+25452,2021-01,Manitoba,151.3
+25594,2021-01,Saskatchewan,156.5
+25741,2021-01,Alberta,154.1
+25887,2021-01,British Columbia,150.7
+26612,2021-02,Newfoundland and Labrador,151.2
+26753,2021-02,Prince Edward Island,161.2
+26893,2021-02,Nova Scotia,158.0
+27034,2021-02,New Brunswick,161.8
+27175,2021-02,Quebec,156.1
+27322,2021-02,Ontario,157.1
+27474,2021-02,Manitoba,152.5
+27616,2021-02,Saskatchewan,157.3
+27763,2021-02,Alberta,155.0
+27909,2021-02,British Columbia,151.1
+28634,2021-03,Newfoundland and Labrador,152.3
+28775,2021-03,Prince Edward Island,163.3
+28915,2021-03,Nova Scotia,158.9
+29056,2021-03,New Brunswick,161.6
+29197,2021-03,Quebec,154.3
+29344,2021-03,Ontario,157.6
+29496,2021-03,Manitoba,152.9
+29638,2021-03,Saskatchewan,157.3
+29785,2021-03,Alberta,155.9
+29931,2021-03,British Columbia,151.0
+30656,2021-04,Newfoundland and Labrador,151.9
+30797,2021-04,Prince Edward Island,161.6
+30937,2021-04,Nova Scotia,158.0
+31078,2021-04,New Brunswick,162.1
+31219,2021-04,Quebec,155.0
+31366,2021-04,Ontario,157.2
+31518,2021-04,Manitoba,151.6
+31660,2021-04,Saskatchewan,156.2
+31807,2021-04,Alberta,155.5
+31953,2021-04,British Columbia,150.8
+32678,2021-05,Newfoundland and Labrador,154.1
+32819,2021-05,Prince Edward Island,163.8
+32959,2021-05,Nova Scotia,160.2
+33100,2021-05,New Brunswick,163.9
+33241,2021-05,Quebec,155.9
+33388,2021-05,Ontario,158.1
+33540,2021-05,Manitoba,153.0
+33682,2021-05,Saskatchewan,158.6
+33829,2021-05,Alberta,157.4
+33975,2021-05,British Columbia,152.2
+34675,2021-06,Newfoundland and Labrador,154.5
+34814,2021-06,Prince Edward Island,162.3
+34952,2021-06,Nova Scotia,160.6
+35091,2021-06,New Brunswick,164.3
+35230,2021-06,Quebec,156.1
+35375,2021-06,Ontario,158.1
+35525,2021-06,Manitoba,153.2
+35665,2021-06,Saskatchewan,159.5
+35810,2021-06,Alberta,157.4
+35954,2021-06,British Columbia,152.8
+36648,2021-07,Newfoundland and Labrador,156.0
+36787,2021-07,Prince Edward Island,164.6
+36925,2021-07,Nova Scotia,161.1
+37064,2021-07,New Brunswick,165.7
+37203,2021-07,Quebec,157.5
+37348,2021-07,Ontario,159.2
+37498,2021-07,Manitoba,153.5
+37638,2021-07,Saskatchewan,159.3
+37783,2021-07,Alberta,157.3
+37927,2021-07,British Columbia,152.9
+38621,2021-08,Newfoundland and Labrador,155.8
+38760,2021-08,Prince Edward Island,165.4
+38898,2021-08,Nova Scotia,162.4
+39037,2021-08,New Brunswick,166.8
+39176,2021-08,Quebec,157.3
+39321,2021-08,Ontario,160.0
+39471,2021-08,Manitoba,153.7
+39611,2021-08,Saskatchewan,158.9
+39756,2021-08,Alberta,157.7
+39900,2021-08,British Columbia,153.2
+40594,2021-09,Newfoundland and Labrador,155.9
+40733,2021-09,Prince Edward Island,166.6
+40871,2021-09,Nova Scotia,162.7
+41010,2021-09,New Brunswick,166.7
+41149,2021-09,Quebec,157.6
+41294,2021-09,Ontario,160.3
+41444,2021-09,Manitoba,154.9
+41584,2021-09,Saskatchewan,160.6
+41729,2021-09,Alberta,158.7
+41873,2021-09,British Columbia,154.2
